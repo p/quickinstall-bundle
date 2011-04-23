@@ -29,3 +29,6 @@ Quick download link:
 
 https://github.com/p/quickinstall-bundle/tarball/mod
 https://github.com/p/quickinstall-bundle/zipball/mod
+
+DoYouSpeakWak (http://www.phpbb.com/community/memberlist.php?mode=viewprofile&u=678615)
+first proposed the idea that led to the creation of QuickInstall Bundle.
