@@ -17,9 +17,15 @@ There are two separate branches:
 The core branch is intended for development of phpBB itself. It has phpBB
 sources in sources/phpBB3 but not automod nor umil.
 
-Quick download link: https://github.com/p/quickinstall-bundle/tarball/core
+Quick download link:
+
+https://github.com/p/quickinstall-bundle/tarball/core
+https://github.com/p/quickinstall-bundle/zipball/core
 
 The mod branch is intended for development of phpBB modifications. It
 has phpBB, automod and umil sources.
 
-Quick download link: https://github.com/p/quickinstall-bundle/zipball/mod
+Quick download link:
+
+https://github.com/p/quickinstall-bundle/tarball/mod
+https://github.com/p/quickinstall-bundle/zipball/mod
