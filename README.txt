@@ -8,7 +8,7 @@ added as new QuickInstall releases are made.
 
 Other sources are at their most recent stable versions. Currently these are:
 
-phpBB 3.0.8
+phpBB 3.0.9
 automod 1.0.0
 umil 1.0.4
 
